@@ -1,0 +1,25 @@
+1XX,Informational
+100,Continue
+2XX,Successful
+200,OK
+204,No Content
+3XX,Redirection
+301,Moved Permanently
+302,Found and Redirect
+304,Not Modified
+307,Temporary Redirect
+4XX,Client Error
+400,Bad Request
+401,Unauthorized
+403,Forbidden
+404,Not Found
+407,Proxy Authentication Required
+408,Request Timeout
+414,Request URI too Large
+429,rate limit exceeded
+5XX,Server Error
+500,Internal Server Error
+501,Method not Implemented
+502,Bad Gateway
+503,Service Unavailable
+504,Gateway Timeout
